@@ -1,12 +1,13 @@
 "*":
   core:
     audioBeep: false
+    telemetryConsent: "no"
     themes: [
-      "one-dark-ui"
+      "atom-light-ui"
       "atom-dark-syntax"
     ]
   editor:
-    fontSize: 12
+    fontSize: 13
     showIndentGuide: true
   "exception-reporting":
     userId: "d39fcc82-c1ee-cc2b-ab8a-d4274a7f703b"
